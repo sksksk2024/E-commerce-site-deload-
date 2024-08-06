@@ -361,7 +361,7 @@ main {
   width: 400px;
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 890px) {
   /* visibility actions */
   .hidden {
     display: flex;
