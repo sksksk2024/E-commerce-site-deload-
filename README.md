@@ -1,3 +1,4 @@
+## Love this one! The same thing as the Tip Calculator App, I still have to learn how to write JS code!!
 Live at: https://sksksk2024.github.io/E-commerce-site-deload-/
 # Frontend Mentor - E-commerce product page
 
